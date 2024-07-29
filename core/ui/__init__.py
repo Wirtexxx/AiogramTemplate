@@ -1,0 +1,1 @@
+from core.ui.ui_menager import ui_text
